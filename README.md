@@ -35,16 +35,16 @@ HOW TO INSTALL WINDOWS
 
 git clone https://github.com/Zucccs/PhoneSploit
 extract adb.rar to the phonesploit directory 
-cd PhoneSploit
+cd infinity
 pip install colorama
-python2 main.py
+python2 linux.py
 
 HOW TO INSTALL Linux
 
 git clone https://github.com/Zucccs/PhoneSploit
-cd PhoneSploit
+cd infinity
 pip install colorama
-python2 main_linux.py
+python2 linux_main.py
 
 IF ADB NOT FOUND
 
