@@ -1,4 +1,5 @@
-<pre>
+<pre> 
+<h1>Credit goes to Zucccs</h1><br />
 #Modified PhoneSploit
 
 Recent News (New Update v.1.2)
